@@ -13,7 +13,9 @@ import "./App.css";
 // import MyComponent from "./MyComponent";
 // import Say from "./Say";
 // import Clock from "./Clock";
-import EventPractice from "./EventPractice";
+// import EventPractice from "./EventPractice";
+// import FruitSelect from "./FruitSelect";
+import Table from "./Table";
 
 // 컴포넌트의 재활용
 function App() {
@@ -21,7 +23,9 @@ function App() {
     <>
       {/* <Say /> */}
       {/* <Clock /> */}
-      <EventPractice />
+      {/* <EventPractice /> */}
+      {/* <FruitSelect /> */}
+      <Table />
     </>
   );
 }
