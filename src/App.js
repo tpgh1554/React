@@ -15,8 +15,12 @@ import "./App.css";
 // import Clock from "./Clock";
 // import EventPractice from "./EventPractice";
 // import FruitSelect from "./FruitSelect";
-import Table from "./Table";
-
+// import Table from "./Table";
+// import UserList from "./UserList";
+// import TodoList from "./TodoList";
+// import CreateRef from "./Ref";
+// import HooksCnt from "./Hooks1";
+import NameCardPrn from "./HooksPrac";
 // 컴포넌트의 재활용
 function App() {
   return (
@@ -25,7 +29,12 @@ function App() {
       {/* <Clock /> */}
       {/* <EventPractice /> */}
       {/* <FruitSelect /> */}
-      <Table />
+      {/* <Table /> */}
+      {/* <UserList /> */}
+      {/* <TodoList /> */}
+      {/* <CreateRef /> */}
+      {/* <HooksCnt /> */}
+      <NameCardPrn />
     </>
   );
 }
