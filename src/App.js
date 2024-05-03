@@ -20,7 +20,10 @@ import "./App.css";
 // import TodoList from "./TodoList";
 // import CreateRef from "./Ref";
 // import HooksCnt from "./Hooks1";
-import NameCardPrn from "./HooksPrac";
+// import NameCard from "./HooksPrac";
+// import Info from "./UseEffect";
+// import ReducerCnt from "./UseReducer";
+import Average from "./UseMemo";
 // 컴포넌트의 재활용
 function App() {
   return (
@@ -34,7 +37,10 @@ function App() {
       {/* <TodoList /> */}
       {/* <CreateRef /> */}
       {/* <HooksCnt /> */}
-      <NameCardPrn />
+      {/* <NameCard /> */}
+      {/* <Info /> */}
+      {/* <ReducerCnt /> */}
+      <Average />
     </>
   );
 }
