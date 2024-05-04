@@ -21,9 +21,10 @@ import "./App.css";
 // import CreateRef from "./Ref";
 // import HooksCnt from "./Hooks1";
 // import NameCard from "./HooksPrac";
+import ExComponent from "./UseRef2";
 // import Info from "./UseEffect";
 // import ReducerCnt from "./UseReducer";
-import Average from "./UseMemo";
+// import Average from "./UseMemo";
 // 컴포넌트의 재활용
 function App() {
   return (
@@ -38,9 +39,10 @@ function App() {
       {/* <CreateRef /> */}
       {/* <HooksCnt /> */}
       {/* <NameCard /> */}
+      <ExComponent />
       {/* <Info /> */}
       {/* <ReducerCnt /> */}
-      <Average />
+      {/* <Average /> */}
     </>
   );
 }
